@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ultracraft121.aternos.me",
-    "port": 62213,
+    "ip": "NotFireEdit.aternos.me",
+    "port": 24489,
     "version": "",
     "try-creative": false
   },
