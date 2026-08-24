@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "103.212.136.198:19149",
+    "ip": "play.CrazyPopSMP.net",
     "port": 19149,
     "version": "",
     "try-creative": false
