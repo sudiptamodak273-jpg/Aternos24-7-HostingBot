@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.CrazyPopSMP.net",
+    "ip": "103.212.136.198:19159",
     "port": 19149,
     "version": "",
     "try-creative": false
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": true
       "sneak": true
     },
     "chat-messages": {
