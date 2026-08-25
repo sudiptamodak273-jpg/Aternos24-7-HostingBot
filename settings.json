@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.CrazyPopSMP.ftp.sh:19149",
-    "port": 19149,
+    "ip": "CrazyPopSMP.aternos.me",
+    "port": 27009,
     "version": "",
     "try-creative": false
   },
